@@ -3,7 +3,10 @@
 ### Lesson One
 
 #### Powerpoint 
-1. [Lesson One Powerpoint]()
+1. [Lesson One Powerpoint](Lessons\LessonOne\Powerpoints\LessonOne.pdf)
+
+#### Lesson Tasks
+1. [Basic System Usage Task](https://github.com/CodheadClub/ITSkillsTraining/blob/master/Lessons/LessonOne/Tasks/Basic%20System%20Use%20-%20Exercise%201.pdf)
 
 #### Books
 1. [How to win every argument: the use and abuse of logic](https://www.amazon.co.uk/how-win-every-argument-abuse/dp/147252912X)
@@ -15,6 +18,8 @@
 1. [CS50 for Lawyers](https://www.youtube.com/playlist?list=PLvD71Eu17WEDRgEDTYH3MfKaG5lySs1dp)
 2. [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 3. [The Basics with Tom Scott](https://www.youtube.com/playlist?list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha)
+4. [Boolean Logic](https://www.geeksforgeeks.org/introduction-to-boolean-logic/)
+5. [Truth Tables](https://byjus.com/maths/truth-table/)
 
 #### Computing Laws
 1. [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents)
