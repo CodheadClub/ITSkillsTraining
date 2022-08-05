@@ -21,4 +21,3 @@ If you enjoyed the course and wish to share it with a friend, you can find the p
 ### Additional Resources
 1. [Codhead Club Awesome Resources List](https://codheadclub.github.io/AwesomeResources/) - Free further learning resources.
 2. [A brief history of computing](https://plato.stanford.edu/archives/win2020/entries/computing-history/) - A brief history of key events in computing history made available by Stanford University.
-3.
