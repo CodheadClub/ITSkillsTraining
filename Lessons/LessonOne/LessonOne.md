@@ -4,10 +4,10 @@
 This introductory lesson covers come basic concepts about logic and communication with computers alongside the differences between hardware and software, finishing with an introduction to GUI concepts and an excercise putting that knowledge into practical use.
 
 #### Powerpoint 
-1. [Lesson One Powerpoint](Lessons\LessonOne\Powerpoints\LessonOne.pdf)
+1. [Lesson One Powerpoint](/Lessons/LessonOne/Powerpoints/LessonOne.pdf)
 
 #### Lesson Tasks
-1. [Basic System Usage Task](https://github.com/CodheadClub/ITSkillsTraining/blob/master/Lessons/LessonOne/Tasks/Basic%20System%20Use%20-%20Exercise%201.pdf)
+1. [Basic System Usage Task](/Lessons/LessonOne/Tasks/Basic System Use - Exercise 1.pdf)
 
 #### Books
 1. [How to win every argument: the use and abuse of logic](https://www.amazon.co.uk/how-win-every-argument-abuse/dp/147252912X)
