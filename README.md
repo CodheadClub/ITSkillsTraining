@@ -11,7 +11,6 @@ If you enjoyed the course and wish to share it with a friend, you can find the p
 ### Contents
 1. [Lesson Material](Lessons/Powerpoints/Lessons.md)
 2. [Class Tasks](Lessons/Tasks/Tasks.md)
-3. Further Study
 
 ### Lessons
 1. [One](Lessons\LessonOne\LessonOne.md) - Introduction, Basic Logic, Hardware v Software
