@@ -1,6 +1,7 @@
 ## [Back to main page](/README.md)
 
 ### Lesson One
+This introductory lesson covers come basic concepts about logic and communication with computers alongside the differences between hardware and software, finishing with an introduction to GUI concepts and an excercise putting that knowledge into practical use.
 
 #### Powerpoint 
 1. [Lesson One Powerpoint](Lessons\LessonOne\Powerpoints\LessonOne.pdf)
