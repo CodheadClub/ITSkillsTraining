@@ -8,9 +8,6 @@ These materials are provided by The Codhead Club for [Humber Job Hub](https://my
 If you are a student of the course and need extra support, please contact Humber Job Hub, alternatively, if you would like to learn more about computing and technology, please feel free to join the [Codhead Club Discord](https://discord.gg/DmHbB2PpVn). You will need to register for a [Discord Account](https://discord.com/) and download the application (or access it on your web browser).
 
 If you enjoyed the course and wish to share it with a friend, you can find the poster [here](Documents/Poster/HumberJobHub-IT-club%20poster.pdf).
-### Contents
-1. [Lesson Material](Lessons/Powerpoints/Lessons.md)
-2. [Class Tasks](Lessons/Tasks/Tasks.md)
 
 ### Lessons
 1. [One](/Lessons/LessonOne/LessonOne.md) - Introduction, Basic Logic, Hardware v Software
