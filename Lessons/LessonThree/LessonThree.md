@@ -5,10 +5,10 @@
 #### Powerpoint 
 1. [Lesson One Powerpoint](/Lessons/LessonThree/Powerpoints/LessonThree.pptx)
 
-### Further Study
+#### Further Study
 1. [Tech Terms Glossary](/Documents/Tech%20Terms%20Glossary.pdf)
 
-#### Computing Laws
+##### Computing Laws
 1. [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents)
 2. [Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted)
 3. [Investigatory Powers Act 2016](https://www.gov.uk/government/collections/investigatory-powers-bill)
