@@ -3,7 +3,7 @@
 ### Lesson Three
 
 #### Powerpoint 
-1. [Lesson One Powerpoint](/Lessons/LessonThree/Powerpoints/LessonThree.pptx)
+1. [Lesson Three Powerpoint](https://github.com/CodheadClub/ITSkillsTraining/blob/master/Lessons/LessonThree/Powerpoints/LessonThree.pptx)
 
 #### Further Study
 1. [Tech Terms Glossary](/Documents/Tech%20Terms%20Glossary.pdf)
