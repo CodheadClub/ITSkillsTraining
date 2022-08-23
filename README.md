@@ -12,7 +12,7 @@ If you enjoyed the course and wish to share it with a friend, you can find the p
 ### Lessons
 1. [One](/Lessons/LessonOne/LessonOne.md) - Introduction, Basic Logic, Hardware v Software
 2. [Two](/Lessons/LessonTwo/LessonTwo.md) - File Types, Basic System Use, Internet + Email.
-3. [Three](/Lessons/LessonThree/LessonThree.md) - 
+3. [Three](/Lessons/LessonThree/LessonThree.md) - Internet + Cyber Security + Open Floor.
 4. [Four](/Lessons/LessonFour/LessonFour.md) - 
 5. [Five](/Lessons/LessonFive/LessonFive.md) - Recap
 ### Additional Resources
