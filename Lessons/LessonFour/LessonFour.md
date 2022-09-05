@@ -3,9 +3,4 @@
 ### Lesson Four
 
 #### Powerpoint 
-
-#### Tasks
-
-#### Books
-
-#### Further Study
+[Lesson Four Powerpoint](/Lessons/LessonFour/Powerpoints/LessonFour.pdf)
